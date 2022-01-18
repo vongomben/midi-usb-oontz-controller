@@ -4,6 +4,6 @@ A ported version of the Adafruit [Mini OONTZ: 3D Printed MIDI Controller](https:
 
 TODO: porting the sequencer
 
-If you need to test the data arriving without a music/vjing programme, yuo can use [MidiView](https://hautetechnique.com/midi/midiview/)
+If you need to test the data arriving without a music/vjing programme, you can use [MidiView](https://hautetechnique.com/midi/midiview/)
 
 ![](https://cdn-learn.adafruit.com/assets/assets/000/018/445/original/3d_printing_hero-angle-view.jpg)
